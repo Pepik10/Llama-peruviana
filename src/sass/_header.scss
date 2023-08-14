@@ -1,0 +1,16 @@
+.site-header {
+  grid-area: head;
+  color: $gradient;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  &__logo {
+    // margin-left: 4rem;
+    // height: 4.2 rem;
+    // display: block;
+    width: 60%;
+    max-width: 240px;
+    height: auto;
+  }
+}

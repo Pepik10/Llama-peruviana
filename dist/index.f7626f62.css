@@ -1,0 +1,15 @@
+.site-header {
+  color: linear-gradient(#2f2fd3, #c81025);
+  grid-area: head;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
+
+.site-header__logo {
+  width: 60%;
+  max-width: 240px;
+  height: auto;
+}
+
+/*# sourceMappingURL=index.f7626f62.css.map */

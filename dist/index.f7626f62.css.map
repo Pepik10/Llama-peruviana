@@ -1,0 +1,1 @@
+{"mappings":"ACAA;;;;;;;;AAOE","sources":["src/sass/main.scss","src/sass/_header.scss","src/sass/_base.scss"],"sourcesContent":["@import 'base';\r\n@import 'header';\r\n",null,null],"names":[],"version":3,"file":"index.f7626f62.css.map","sourceRoot":"/__parcel_source_root/"}
